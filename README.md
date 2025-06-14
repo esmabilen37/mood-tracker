@@ -52,6 +52,7 @@ Bu proje, kullanıcıların günlük ruh hallerini ve alışkanlıklarını taki
 
 ## 📂 Proje Yapısı
 
+````plaintext
 mood_tracker/
 ├── img-mood/
 │   ├── 1.png
@@ -73,6 +74,7 @@ mood_tracker/
 ├── mood_list.php
 ├── register.php
 └── toggle_habit.php
+
 
 
 ## 🔄 Uygulama Akışı
