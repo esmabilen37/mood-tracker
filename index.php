@@ -1,12 +1,3 @@
-<?php
-session_start();
-
-// Eğer kullanıcı zaten giriş yapmışsa dashboard'a yönlendir
-if (isset($_SESSION['user_id'])) {
-    header("Location: dashboard.php");
-    exit;
-}
-?>
 
 <!DOCTYPE html>
 <html lang="tr">
