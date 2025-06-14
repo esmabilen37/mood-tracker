@@ -4,6 +4,11 @@ Bu proje, kullanıcıların günlük ruh hallerini ve alışkanlıklarını taki
 
 [Proje Canlı Link]( http://95.130.171.20/~st23360859035)
 
+## Video
+
+[Projeye İlişkin Video](https://youtu.be/n2gyBust94w)
+
+
 ## 🚀 Özellikler
 
 - ✅ Kullanıcı kayıt ve giriş sistemi  
