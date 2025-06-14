@@ -50,6 +50,16 @@ Bu proje, kullanıcıların günlük ruh hallerini ve alışkanlıklarını taki
 
 ---
 
+## 🔄 Uygulama Akışı
+
+1. Kullanıcı kayıt olur ve giriş yapar.  
+2. Dashboard ekranında ruh hali ve alışkanlık bölümleri görünür.  
+3. Kullanıcı:  
+   - Günlük ruh halini seçip not ekleyebilir.  
+   - Takvim üzerinden alışkanlıklarını işaretleyebilir.  
+4. Takvimde zincir sistemi çalışır: Her tamamlanan alışkanlık "X" ile temsil edilir.  
+5. Kullanıcı, geçmiş kayıtlarını listeleyebilir ve istatistik görebilir.
+---
 ## 📂 Proje Yapısı
 
 ````plaintext
@@ -76,14 +86,5 @@ mood_tracker/
 └── toggle_habit.php
 
 
-
-## 🔄 Uygulama Akışı
-
-1. Kullanıcı kayıt olur ve giriş yapar.  
-2. Dashboard ekranında ruh hali ve alışkanlık bölümleri görünür.  
-3. Kullanıcı:  
-   - Günlük ruh halini seçip not ekleyebilir.  
-   - Takvim üzerinden alışkanlıklarını işaretleyebilir.  
-4. Takvimde zincir sistemi çalışır: Her tamamlanan alışkanlık "X" ile temsil edilir.  
-5. Kullanıcı, geçmiş kayıtlarını listeleyebilir ve istatistik görebilir. 
+ 
 
