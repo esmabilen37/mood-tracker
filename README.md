@@ -2,6 +2,8 @@
 
 Bu proje, kullanıcıların günlük ruh hallerini ve alışkanlıklarını takip edebilecekleri, PHP ve MySQL ile geliştirilmiş bir web uygulamasıdır. Kullanıcılar ruh halleriyle ilgili kayıtlar tutabilir, alışkanlıklarını yönetebilir ve gelişimlerini takvim üzerinden takip edebilirler.
 
+[Proje Canlı Link]( http://95.130.171.20/~st23360859035)
+
 ## 🚀 Özellikler
 
 - ✅ Kullanıcı kayıt ve giriş sistemi  
